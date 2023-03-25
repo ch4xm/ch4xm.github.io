@@ -1,2 +1,1 @@
-# ch4zmx.github.io
-My personal website.
+# ch4zmx-website
